@@ -17,7 +17,8 @@
   "compounds": [
     {
       "name": "Launch",
-      "configurations": ["Attach to .NET Functions", "Launch Client"]
+      "configurations": ["Attach to .NET Functions", "Launch Client"],
+      "stopAll": true
     }
   ]
 }
